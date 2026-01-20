@@ -1,0 +1,22 @@
+# Dependências para o Sistema de Reconhecimento de Placas
+# Instalar com: pip install -r requirements.txt
+
+# Processamento de imagens
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Visualização
+matplotlib>=3.7.0
+
+# Computação científica
+numpy>=1.24.0
+
+# OCR (opcional - instalar se necessário)
+easyocr>=1.7.0
+pytesseract>=0.3.10
+
+# Detecção de objetos (opcional)
+ultralytics>=8.0.0
+
+# Utilitários
+pathlib2>=2.3.7
